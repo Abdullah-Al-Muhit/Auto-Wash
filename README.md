@@ -1,2 +1,2 @@
 # Auto-Wash
-https://muhitmridul.github.io/Auto-Wash/
+https://abdullah-al-muhit.github.io/Auto-Wash/
